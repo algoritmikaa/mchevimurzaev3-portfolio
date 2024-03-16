@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient( to right,  aqua, white);
+    padding: 25px;
+}
+
+
+header a {
+    border: 5px double salmon;
+    padding: 4px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: purple;
+    font-size: 19px;
+}
+
+
+footer {
+    background-image: linear-gradient( to right,  aqua, white);
+    padding: 12px;
+}
+
+footer a {
+    margin-right: 15px;
+}
+
+
+h6 {
+    background-color: black;
+    color: red;
+}
+
+
+h1 {
+    text-shadow: 7px 4px 2px gray;
+    text-align: center;
+    font-size: 47px;
+    border: 5px peachpuff double;
+    border-radius: 7px;
+}
+
+li {
+    font-size: 20px;
+}
+
+
+header a, main a {
+    text-decoration: none;
+    border: firebrick double 3px;
+    border-radius: 5px;
+}
+
+
+ol {
+    text-shadow: 3px 7px 5px gray;
+    font-size: 47px;
+    border: 5px peachpuff double;
+    border-radius: 7px;
+}
+
+
+    
+
+
+
+ 
+
+    
+
+
+
